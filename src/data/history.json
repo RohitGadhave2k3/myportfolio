@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Intern",
+    "organisation": "YBI Foundation",
+    "startDate": "Nov, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Developed heart disease prediction model", "Created insightful visualizations"],
+    "imageSrc": "history/ybi.png"
+  },
+  {
+    "role": "Intern, Research and Development",
+    "organisation": "AICTE",
+    "startDate": "Jan, 2024",
+    "endDate": "Feb, 2024",
+    "experiences": ["Developed models predicting restaurant ratings", "Achieved 82%-90% accuracy"],
+    "imageSrc": "history/aicte.png"
+  }
+]

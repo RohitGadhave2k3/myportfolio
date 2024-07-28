@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Dashboard for Data Visualization",
+    "imageSrc": "projects/project1.png",
+    "description": "Developed a dashboard using PostgreSQL, Python, Django, and React to visualize data from JSON datasets.",
+    "skills": ["React", "PostgreSQL", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/RohitGadhave2k3/dashboard"
+  },
+  {
+    "title": "QR Code Generator Web Application",
+    "imageSrc": "projects/project2.png",
+    "description": "Created a web application using React.js to generate QR codes from URLs, focusing on a user-friendly interface.",
+    "skills": ["React", "JS", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://rohitgadhave2k3.github.io/qr-code-generator/"
+  },
+  {
+    "title": "Virtual Mouse",
+    "imageSrc": "projects/project3.jpg",
+    "description": "Developed a virtual mouse using OpenCV, MediaPipe, and Python for real-time hand tracking and gesture recognition.",
+    "skills": ["Python", "OpenCV"],
+    "demo": "https://www.example.com",
+    "source": "https://rohitgadhave2k3.github.io/virtual-mouse/"
+  }
+]
