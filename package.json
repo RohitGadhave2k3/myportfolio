@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rohitgadhave2k3.github.io/myportfolio/",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -6,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "start": "npx vite",
