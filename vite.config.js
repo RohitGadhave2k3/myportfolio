@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
   css: {
     modules: {
+      base:"/myportfolio/",
       localsConvention: "camelCase",
     },
   },
